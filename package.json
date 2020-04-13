@@ -1,0 +1,6 @@
+{
+    "name": "homepage-2",
+    "scripts": {
+        "dev": "nuxt"
+    }
+}
