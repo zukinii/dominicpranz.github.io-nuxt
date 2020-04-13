@@ -1,9 +1,20 @@
 {
-    "name": "homepage-2",
-    "scripts": {
-        "dev": "nuxt"
-    },
-    "dependencies": {
-        "nuxt": "^2.12.2"
-    }
+  "name": "homepage-2",
+  "version": "1.0.0",
+  "description": "My divine Nuxt.js project",
+  "author": "Dominic",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.6.0",
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
 }
