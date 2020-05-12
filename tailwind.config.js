@@ -6,9 +6,10 @@
  */
 module.exports = {
   purge: [
-    './src/**/*.html',
-    './src/**/*.vue',
-    './src/**/*.jsx',
+    'components/**/*.vue',
+    'layouts/**/*.vue',
+    'pages/**/*.vue',
+    'plugins/**/*.js'
   ],
   theme: {},
   variants: {},
