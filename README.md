@@ -1,4 +1,4 @@
-# homepage-2
+# dominicpranz.github.io
 
 > My divine Nuxt.js project
 
