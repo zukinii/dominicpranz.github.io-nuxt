@@ -1,5 +1,8 @@
 export default {
   mode: 'spa',
+  router: {
+    base: '/dominicpranz.github.io/'
+  },
   /*
    ** Headers of the page
    */
