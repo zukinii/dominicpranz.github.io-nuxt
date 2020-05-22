@@ -4,6 +4,7 @@
       <div class="intro-card">
         <h1>Intro</h1>
         <p>A short explanation what this site is about + Contact</p>
+        <Projects />
       </div>
     </section>
     <section class="bio">
@@ -17,7 +18,6 @@
         <li>Left Right Layout? Seems to boring as well</li>
         <li>A cube you can rotate? Maybe...</li>
       </ul>
-      <Projects />
     </section>
     <footer>Footer</footer>
   </div>
